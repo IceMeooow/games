@@ -19,4 +19,5 @@ In the ***Number game*** user should guess number from 1 to 10. After entering t
 * Open file in your IDE for PYTHON.
 * Run file.
 
+
 ***Have fun!***
