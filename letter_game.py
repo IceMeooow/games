@@ -73,6 +73,7 @@ def game(done):
                 print("Bye")
                 sys.exit()
 
+
 animals_data = pd.read_csv("animals.csv")
 words = []
 for i in animals_data.name:
